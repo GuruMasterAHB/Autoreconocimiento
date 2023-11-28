@@ -1,0 +1,4 @@
+Epoch 48/60
+423/423 [==============================] - ETA: 0s - loss: 0.2159 - binary_accuracy: 0.9130
+Epoch 48: val_loss improved from 0.22213 to 0.22198, saving model to best_val_loss.h5
+423/423 [==============================] - 99s 235ms/step - loss: 0.2159 - binary_accuracy: 0.9130 - val_loss: 0.2220 - val_binary_accuracy: 0.9116
