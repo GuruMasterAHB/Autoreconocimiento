@@ -1,0 +1,4 @@
+loss 0.2310
+binary_accuracy 0.8996
+val_loss 0.2257
+val_binary_accuracy 0.9022
