@@ -1,0 +1,1 @@
+oss: 0.2279 - binary_accuracy: 0.9012 - val_loss: 0.2207 - val_binary_accuracy: 0.9061
